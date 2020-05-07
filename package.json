@@ -1,0 +1,14 @@
+{
+  "name": "emoji-store-example",
+  "version": "1.0.0",
+  "description": "emoji-store-example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niranjan Devasani",
+  "license": "ISC",
+  "dependencies": {
+    "emoji-store": "^1.0.0"
+  }
+}
